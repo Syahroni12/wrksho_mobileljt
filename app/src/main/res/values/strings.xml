@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WSANDROID</string>
+    <string-array name="jenis_kel">
+        <item>--</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
